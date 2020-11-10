@@ -14,4 +14,5 @@ public class Client1 {
     //commentaireDeGérald
     
     //commentaireGéraldConflit
+    //modifconflit
 }
