@@ -12,4 +12,6 @@ public class Client1 {
     //commentairedeJohana
     //commentaireDeGérald
     //commentaireDeGérald
+    
+    //commentaireGéraldConflit
 }
